@@ -1,2 +1,3 @@
 This is simple text file for git
 Changed Text1
+Changed Text2
